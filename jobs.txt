@@ -1,0 +1,50 @@
+Proposed 0 6
+Proposed 1 6
+Proposed 2 6
+w/o L_acc+L_inv 0 6
+Prior-Fusion 0 6
+SV-MIL 0 6
+MV-Late 0 6
+Asym-Temporal 0 6
+Prior-Fusion+DANN 0 6
+MV-Transformer 2 6
+Prior-Fusion 1 6
+Prior-Fusion 2 6
+Siamese-Diff 1 6
+Siamese-Diff 2 6
+Asym-Temporal 1 6
+Asym-Temporal 2 6
+SV-MIL 1 6
+SV-MIL 2 6
+MV-Late 1 6
+MV-Late 2 6
+Prior-Fusion+DANN 1 6
+Prior-Fusion+DANN 2 6
+w/o alignment 0 6
+w/o gating 0 6
+w/o L_acc 0 6
+w/o L_inv 0 6
+w/o cross-view 0 6
+w/o L_acc+L_inv 1 6
+w/o L_acc+L_inv 2 6
+w/o alignment 1 6
+w/o alignment 2 6
+w/o gating 1 6
+w/o gating 2 6
+w/o L_acc 1 6
+w/o L_acc 2 6
+w/o L_inv 1 6
+w/o L_inv 2 6
+w/o cross-view 1 6
+w/o cross-view 2 6
+K=1 0 6
+K=6 0 6
+sigma=0 0 6
+lam_acc=0.25 0 6
+lam_acc=4 0 6
+w/o counterfactuals 0 6
+w/o counterfactuals 1 6
+w/o counterfactuals 2 6
+MV-Transformer 1 6
+Siamese-Diff 0 6
+MV-Transformer 0 6
